@@ -57,7 +57,13 @@ Two buttons are used — one to change the LED mode, and another to reset all LE
  **Wokwi Project Link:** 
 ((https://wokwi.com/projects/445781130964625409))
 # **Screeshots** 
-Screehshots are added in Task-A folder.
+<img width="476" height="321" alt="Mode 1" src="https://github.com/user-attachments/assets/a6ffae65-4e85-4e9c-a6ef-4c436f705881" />
+<img width="476" height="329" alt="Mode 2" src="https://github.com/user-attachments/assets/f893e087-3eee-44a4-8a7a-ea41a24d202f" />
+<img width="479" height="317" alt="Mode 3" src="https://github.com/user-attachments/assets/6c72e656-1ab0-4155-955d-1d1897ebdb4f" />
+<img width="476" height="338" alt="Mode 4" src="https://github.com/user-attachments/assets/8b40bb2d-86ce-4343-aa78-339726eff3b4" />
+
+
+
 
 
 
